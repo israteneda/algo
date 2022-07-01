@@ -1,4 +1,4 @@
-.PHONY: clean test
+.PHONY: clean test coverage
 
 lint:
 	go fmt ./...
